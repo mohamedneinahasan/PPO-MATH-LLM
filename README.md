@@ -6,7 +6,7 @@ This project explores how reinforcement learning with human feedback (RLHF), spe
 
 ## 📌 Project Architecture
 
-<img width="1440" alt="project_Architecture" src="https://github.com/user-attachments/assets/d73a568c-f7cb-4e2e-9503-27b1fe4f54f2" />
+<img width="1430" alt="project_Architecture" src="https://github.com/user-attachments/assets/1d63c17e-95e3-4def-a41f-752f7c6fb227" />
 
 
 ---
