@@ -1,4 +1,4 @@
-# 🧠 PPO-Math-LLM: Fine-Tuning Language Models to Solve Math Word Problems
+# 🧠 Exploring Capabilities Of Large Language Models In Solving Basic Algebraic Equations
 
 This project explores how reinforcement learning with human feedback (RLHF), specifically the PPO algorithm, can be used to fine-tune language models for solving basic algebraic word problems. We use a reward model (DistilBERT) to score solutions and improve the LLM through iterative training.
 
